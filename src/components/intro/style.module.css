@@ -1,0 +1,63 @@
+.homeHeader {
+  position: relative;
+
+  width: 100%;
+
+  display: flex;
+
+  justify-content: center;
+  /* overflow: hidden; */
+}
+
+.backgroundImage {
+  width: 100%;
+
+  height: 220vh;
+
+  position: absolute;
+
+  filter: brightness(60%);
+}
+
+.backgroundImage img {
+  object-fit: cover;
+  /* border-radius: 40%; */
+}
+
+.intro {
+  display: flex;
+
+  justify-content: center;
+
+  position: relative;
+
+  margin-top: 35vh;
+}
+
+.intro h1 {
+  color: white;
+  -webkit-text-stroke: 2px black;
+  font-size: 7vw;
+
+  z-index: 3;
+
+  text-align: center;
+
+  white-space: nowrap;
+}
+
+.introImage {
+  filter: brightness(150%);
+
+  width: 350px;
+
+  height: 475px;
+
+  position: absolute;
+}
+
+.introImage img {
+  object-fit: cover;
+
+  object-position: top;
+}
