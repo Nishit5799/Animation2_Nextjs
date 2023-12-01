@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Made with the help of Locomotive scroll and Gsap Animations.
+Locomotive scroll and Gsap Animations added to make the page smooth and attractive.
 
 ## Getting Started
 
